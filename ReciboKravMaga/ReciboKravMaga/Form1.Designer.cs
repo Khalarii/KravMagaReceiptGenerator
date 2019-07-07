@@ -66,7 +66,7 @@
             // 
             this.amountPaid.Location = new System.Drawing.Point(135, 39);
             this.amountPaid.Name = "amountPaid";
-            this.amountPaid.Size = new System.Drawing.Size(100, 21);
+            this.amountPaid.Size = new System.Drawing.Size(102, 21);
             this.amountPaid.TabIndex = 1;
             // 
             // label2
