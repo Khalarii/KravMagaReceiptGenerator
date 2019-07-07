@@ -17,13 +17,13 @@ namespace ReciboKravMaga
             PaymentDate = date;
         }
 
-        public string StudentName { get; set; }
+        public string StudentName { get; private set; }
 
-        public decimal PaymentValue { get; set; }
+        public decimal PaymentValue { get; private set; }
 
-        public string PaymentType { get; set; }
+        public string PaymentType { get; private set; }
 
-        public DateTime PaymentDate { get; set; }
+        public DateTime PaymentDate { get; private set; }
 
         public bool Valid()
         {
