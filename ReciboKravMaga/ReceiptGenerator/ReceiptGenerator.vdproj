@@ -523,7 +523,7 @@
         "Name" = "8:Microsoft Visual Studio"
         "ProductName" = "8:Gerador de Recibo"
         "ProductCode" = "8:{BE8CEF12-036B-47AB-8AF7-CFC4BCEFE9BD}"
-        "PackageCode" = "8:{6E90AF83-3881-40E2-9DB1-A6E8DEAF2402}"
+        "PackageCode" = "8:{B5258819-A12A-4F90-B4DB-FA31F45DFB12}"
         "UpgradeCode" = "8:{3C796F3A-9F18-4E39-BB49-ED5B6D6692B8}"
         "AspNetVersion" = "8:4.0.30319.0"
         "RestartWWWService" = "11:FALSE"
@@ -643,6 +643,20 @@
         }
         "Shortcut"
         {
+            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_82023C1A5E8D474BB4A48BF83B6E42E2"
+            {
+            "Name" = "8:Gerador de Recibos"
+            "Arguments" = "8:"
+            "Description" = "8:"
+            "ShowCmd" = "3:1"
+            "IconIndex" = "3:0"
+            "Transitive" = "11:FALSE"
+            "Target" = "8:_4F7A9DD5611E4925A1DDDD54160FD48E"
+            "Folder" = "8:_A49E440CEF864CD0863194E71E1F703B"
+            "WorkingFolder" = "8:_3918E00E835E4E3EAA0CE47EC3E04EB9"
+            "Icon" = "8:_6C7D71DF545946A59506118C74F6992F"
+            "Feature" = "8:"
+            }
         }
         "UserInterface"
         {
