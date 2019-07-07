@@ -36,7 +36,7 @@ namespace ReciboKravMaga
 
                 if (decimal.TryParse(amountPaid.Text, out _amountPaid))
                 {
-                    var receiptInfo = new ReceiptInfo(studentName.Text, _amountPaid, paymentType, paymentDate.Value);
+                    var receiptInfo = new ReceiptInfo(studentName.Text, _amountPaid, paymentType, paymentDate.Value.Date);
 
                     if (receiptInfo.Valid())
                     {
