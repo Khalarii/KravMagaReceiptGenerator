@@ -45,7 +45,6 @@ C:\users\kimgs\documents\KravMagaReceiptGenerator\ReciboKravMaga\ReciboKravMaga\
 C:\users\kimgs\documents\KravMagaReceiptGenerator\ReciboKravMaga\ReciboKravMaga\bin\Debug\de\MigraDoc.RtfRendering-gdi.resources.dll
 C:\users\kimgs\documents\KravMagaReceiptGenerator\ReciboKravMaga\ReciboKravMaga\bin\Debug\de\PdfSharp-gdi.resources.dll
 C:\users\kimgs\documents\KravMagaReceiptGenerator\ReciboKravMaga\ReciboKravMaga\bin\Debug\de\PdfSharp.Charting-gdi.resources.dll
-C:\users\kimgs\documents\KravMagaReceiptGenerator\ReciboKravMaga\ReciboKravMaga\obj\Debug\ReciboKravMaga.csprojAssemblyReference.cache
 C:\users\kimgs\documents\KravMagaReceiptGenerator\ReciboKravMaga\ReciboKravMaga\obj\Debug\ReciboKravMaga.Form1.resources
 C:\users\kimgs\documents\KravMagaReceiptGenerator\ReciboKravMaga\ReciboKravMaga\obj\Debug\ReciboKravMaga.Properties.Resources.resources
 C:\users\kimgs\documents\KravMagaReceiptGenerator\ReciboKravMaga\ReciboKravMaga\obj\Debug\ReciboKravMaga.csproj.GenerateResource.cache
@@ -53,3 +52,4 @@ C:\users\kimgs\documents\KravMagaReceiptGenerator\ReciboKravMaga\ReciboKravMaga\
 C:\users\kimgs\documents\KravMagaReceiptGenerator\ReciboKravMaga\ReciboKravMaga\obj\Debug\ReciboKravMaga.csproj.CopyComplete
 C:\users\kimgs\documents\KravMagaReceiptGenerator\ReciboKravMaga\ReciboKravMaga\obj\Debug\ReciboKravMaga.exe
 C:\users\kimgs\documents\KravMagaReceiptGenerator\ReciboKravMaga\ReciboKravMaga\obj\Debug\ReciboKravMaga.pdb
+C:\users\kimgs\documents\KravMagaReceiptGenerator\ReciboKravMaga\ReciboKravMaga\bin\Debug\Custom-Icon-Design-Pretty-Office-11-Coin-us-dollar.ico
